@@ -15,7 +15,7 @@ It’s a simple hands-free interaction experiment that shows how basic face trac
 
 ## Project structure
 
-main.py
-requirements.txt
-haarcascade_frontalface_default.xml
-README.md
+- main.py
+- requirements.txt
+- haarcascade_frontalface_default.xml
+- README.md
